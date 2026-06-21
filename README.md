@@ -1,4 +1,4 @@
-# 67
+# the brainrot keyboard of your dreams! :))
 <img width="3546" height="2712" alt="full ds" src="https://github.com/user-attachments/assets/b2efd834-352d-49d8-989a-00887ed2a23c"/>
 handwired split mechanical keyboard running on qmk firmware consisting of 12 keys 
 
