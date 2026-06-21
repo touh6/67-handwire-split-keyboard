@@ -1,0 +1,11 @@
+MCU= atmega32u4
+BOOTLOADER= caterina
+
+SPLIT KEYBOARD= yes
+
+SERIAL_DRIVER=bitbang
+
+BOOTMAGIC_ENABLE= yes
+EXTRAKEY_ENABLE= yes
+
+LTO_ENABLE=yes
