@@ -11,20 +11,35 @@ built using kicad
 
 ## to build your own 67 keyboard:
 
-buy all the components as mentioned in the [bill of materials](https://github.com/touh6/breadplayer/tree/main/bill%20of%20materials).
+buy all the components as mentioned in the [bill of materials](https://github.com/touh6/67-handwire-split-keyboard/tree/main/bill%20of%20materials).
 
-3d print all the required cases { files of which you can find in the [cad folder](https://github.com/touh6/breadplayer/tree/main/cad) }
+3d print all the required cases { files of which you can find in the [cad folder](https://github.com/touh6/67-handwire-split-keyboard/tree/main/cad) 
 
+place the case,
+<img width="3477" height="2696" alt="case" src="https://github.com/user-attachments/assets/8a3ef898-f12e-42d3-ad47-f63d89369631" />
 
-and then, assemble it all in the case and you're good to go! :))
+insert the bottom plates,
+<img width="3742" height="2752" alt="case with bottom" src="https://github.com/user-attachments/assets/72b5f54a-9a13-4454-bd6b-4f0d42470351" />
+
+screw them up, 
+<img width="4007" height="3030" alt="back of the case" src="https://github.com/user-attachments/assets/6e0c5a50-c66d-40cc-a733-18ded9184ba2" />
+
+insert the mcu's + trrs connectors, 
+<img width="3875" height="2953" alt="case with electronics" src="https://github.com/user-attachments/assets/dd7e291e-dd73-469a-ba68-e61c0b96cdf5" />
+
+insert the switch plates, 
+<img width="3950" height="2960" alt="switch plate" src="https://github.com/user-attachments/assets/0ac45f4b-f1f4-4996-9036-9fb542ff34ca" />
+
+place the key-switches, 
+<img width="3082" height="2277" alt="key-switches assembled" src="https://github.com/user-attachments/assets/1e958b91-a947-406c-9d73-434843c8adbc" />
+
+place the key-caps,
+<img width="4060" height="3049" alt="assembled 67" src="https://github.com/user-attachments/assets/78c715e7-158a-4545-8d50-4d484babf3ff" />
+
+and then, you're good to go! :))
 
 
 ## construction:
-<table><tr>
-  <td><img src="https://github.com/user-attachments/assets/5133af00-e1a4-4d85-8d03-73664748cdc5"></td>
-    <td><img src="https://github.com/user-attachments/assets/94fd8153-76ab-4256-9b28-9d3df2d3073e"></td>
-</tr></table>
-
 <table><tr>
       <h2 align="center">front & back: </h2>
   <td><img src="https://github.com/user-attachments/assets/ba025c8d-db22-4d2b-89ec-9dd4ea0aa6fe"></td>
